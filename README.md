@@ -1,11 +1,9 @@
-# TODO: Title
-
-# P100: Personalised Template Library for JavaScript
+# P0: TODO
 
 TODO: description.
 
-## Usage
+**API Documentation in _[/src](./src)_.**
 
-> API Documentation is in the source: _[/src](./src)_.
+## Made to be Plundered
 
-_Copy+paste_ files from _[/src](./src)_ into your project. Tests are written in [Jest](https://jestjs.io/) but easy to adapt or rewrite for your framework.
+_Copy & paste_ files from _[/src](./src)_ into your project. Tests are written in [Jest](https://jestjs.io/) but should be easy to adapt or rewrite for whatever testing framework.
